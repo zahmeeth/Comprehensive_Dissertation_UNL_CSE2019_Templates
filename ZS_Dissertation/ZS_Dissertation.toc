@@ -1,0 +1,10 @@
+\select@language {english}
+\contentsline {chapter}{\fontsize {14pt}{14}\bfseries List of Figures}{v}
+\contentsline {chapter}{\fontsize {14pt}{14}\bfseries List of Tables}{vi}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}
+\contentsline {chapter}{\chapternumberline {2}Background}{2}
+\contentsline {section}{\numberline {2.1}Motivation}{2}
+\contentsline {section}{\numberline {2.2}Biological Pathways}{2}
+\contentsline {subsection}{\numberline {2.2.1}Gene Regulation}{3}
+\contentsline {chapter}{\chapternumberline {3}Conclusion and Future Directions}{4}
+\contentsline {chapter}{Bibliography}{5}

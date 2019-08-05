@@ -1,0 +1,91 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: ZS_Dissertation.aux
+The style file: plain.bst
+Database file #1: ZSDissertation.bib
+I was expecting a `,' or a `}'---line 125 of file ZSDissertation.bib
+ : 
+ : @Manual{Karr2018,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2572 of file ZSDissertation.bib
+ : 
+ : @ARTICLE{Chahibi13,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4249 of file ZSDissertation.bib
+ :     
+ :     note = " To appear"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 4315 of file ZSDissertation.bib
+ : 
+ : %  Title                    = {Fundamental inequalities and identities involving mutual and directed informations in closed-loop systems},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 4397 of file ZSDissertation.bib
+ : 
+ : %  Title                    = {Causality, feedback and directed information},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 4555 of file ZSDissertation.bib
+ : 
+ : %  Title                    = {Fundamental inequalities and identities involving mutual and directed informations in closed-loop systems},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 4637 of file ZSDissertation.bib
+ : 
+ : %  Title                    = {Causality, feedback and directed information},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4738 of file ZSDissertation.bib
+ : 
+ : @article{bettenbrock2006quantitative,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Illegal end of database file---line 4790 of file ZSDissertation.bib
+ :   publisher={Public Library of Science}
+ :                                        
+I'm skipping whatever remains of this entry
+You've used 1 entry,
+            2118 wiz_defined-function locations,
+            506 strings with 4259 characters,
+and the built_in function-call counts, 518 in all, are:
+= -- 44
+> -- 38
+< -- 0
++ -- 15
+- -- 14
+* -- 52
+:= -- 95
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 10
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 11
+empty$ -- 30
+format.name$ -- 14
+if$ -- 98
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 2
+pop$ -- 8
+preamble$ -- 1
+purify$ -- 9
+quote$ -- 0
+skip$ -- 7
+stack$ -- 0
+substring$ -- 32
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 0
+while$ -- 3
+width$ -- 2
+write$ -- 13
+(There were 9 error messages)
